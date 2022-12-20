@@ -1,0 +1,4 @@
+deploy/
+dist/
+docker-custodian
+.git
